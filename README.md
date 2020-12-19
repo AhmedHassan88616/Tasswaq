@@ -1,3 +1,3 @@
 # Tasswaq #
 
-### An Ecommerce App Like Amazon and Souq ###
+### An Ecommerce App Like Amazon and Souq. ###
